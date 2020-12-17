@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Parveen Kumar
+### Hi there 👋, my name is Parveen Kumar [<img src="https://i.stack.imgur.com/YfCOa.gif" />]
 #### I am software developer
 ![I am software developer](https://github-readme-stats.vercel.app/api/top-langs/?username=praveent696&layout=compact)
 
