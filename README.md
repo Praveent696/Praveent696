@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Parveen Kumar
 #### I am software developer
-![I am software developer]
+![I am software developer](https://github-readme-stats.vercel.app/api/top-langs/?username=praveent696&layout=compact)
 
 Ready to build awesome user friendly softwares
 
