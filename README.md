@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### Hi there 👋, my name is Parveen Kumar 
 
