@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-### Hi there 👋, my name is Parveen Kumar ![image](https://user-images.githubusercontent.com/15323217/109928068-0fd97380-7ceb-11eb-8bf0-e60af3a1c882.png)
+### Hi there 👋, my name is Parveen Kumar 
 
 #### I am software developer
 [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=praveent696&layout=compact' alt='skills' height='200'>](https://github-readme-stats.vercel.app/api/top-langs/?username=praveent696&layout=compact) 
