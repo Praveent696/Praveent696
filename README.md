@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img width="100%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg" />
 
 ### Hi there 👋, my name is Parveen Kumar <img src='https://i.pinimg.com/originals/93/23/be/9323bef47328b74cb8d85b9ba053f413.gif' width='50px' style="vertical-align: text-top;" />
 
