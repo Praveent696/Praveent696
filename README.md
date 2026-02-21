@@ -1,20 +1,38 @@
-<img width="100%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg" />
+# Hi there, I'm Parveen Kumar 👋 🇮🇳
 
-### Hi there 👋, my name is Parveen Kumar <img src='https://i.pinimg.com/originals/93/23/be/9323bef47328b74cb8d85b9ba053f413.gif' width='50px' style="vertical-align: text-top;" />
+### Software Engineer | Tech Lead | System Architect
 
-#### I am software developer
-[<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=praveent696&layout=compact' alt='skills' height='200'>](https://github-readme-stats.vercel.app/api/top-langs/?username=praveent696&layout=compact) 
+With over **a decade of experience** in the software industry, I specialize in building robust, scalable applications using the **.NET ecosystem** and **Modern Frontend** frameworks. I’m currently focused on the "80/20" balance—driving high-impact technical contributions while mentoring teams and refining system architecture.
 
+---
 
-Ready to build awesome user friendly softwares
+### 🛠 My Technical Arsenal
 
-Skills: C# / REACT / NODE / MSSQL / MySql / MongoDB/ CRM Dynamics 365 / HTML / CSS
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | .NET Core, ASP.NET Web API, C#, Microservices, Entity Framework |
+| **Frontend** | React.js, Redux, JavaScript (ES6+), TypeScript, HTML5/CSS3 |
+| **Cloud & DevOps** | Azure (App Services, Functions, Service Bus), CI/CD Pipelines, Docker |
+| **Data & Storage** | SQL Server, PostgreSQL, Redis |
+| **Testing/Tools** | xUnit, Jest, Git, Postman, JIRA |
 
-- 🔭 I’m currently working on CRM Dynamics 365 Customization  
-- 🌱 I’m currently learning Redux  / FLUX 
-- 📫 How to reach me: https://www.linkedin.com/in/iamparveen/ 
-- 😄 Pronouns: Praveen 
-- ⚡ Fun fact: Love playing cricket in free time. 
+---
 
+### 📈 What I'm Focused On
+* **Architecture at Scale:** Designing resilient distributed systems and microservices.
+* **Leadership & Mentorship:** Transitioning into Staff Engineer roles and fostering high-performing engineering cultures.
+* **Performance Optimization:** Deep-diving into React rendering patterns and .NET memory management.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/praveent696)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@praveent696)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamparveen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/praveent696)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/5528943/parveen-kumar)  
+---
+
+### ⚡ Beyond the Code
+* **Continuous Learner:** Always exploring the latest in cloud-native technologies.
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin](https://linkedin.com/in/iamparveen)
+* **Portfolio:** [my-portfolio](https://praveent696.github.io/my-portfolio/)
+* **Email:** [praveent696@gmail.com]
+
+*"Simplicity is the soul of efficiency."*
