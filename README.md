@@ -88,10 +88,10 @@ Lead Full Stack Engineer with **10+ years** of experience architecting and deliv
 
 **B.Tech in Computer Science & Engineering**, GGSIPU University, Delhi (2011 – 2015), GPA 8.1/10
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveent696&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveent696&layout=compact&theme=tokyonight&hide_border=true)
+[![Followers](https://img.shields.io/github/followers/Praveent696?style=for-the-badge&logo=github&label=Followers)](https://github.com/Praveent696)
+[![Profile](https://img.shields.io/badge/GitHub-Praveent696-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praveent696)
 
 ---
 
