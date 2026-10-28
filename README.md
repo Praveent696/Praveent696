@@ -1,98 +1,102 @@
-# Hi, I'm Parveen Kumar 👋 🇮🇳
+![Parveen Kumar](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Parveen%20Kumar&fontSize=56&fontColor=ffffff&desc=Lead%20Full%20Stack%20Engineer%20%7C%20.NET%20%C2%B7%20React%20%C2%B7%20Azure&descSize=20&descAlignY=68)
 
-### Lead Full Stack Engineer · .NET Core · React · Azure
+### ⚡ I turn complex problems into fast, scalable, secure systems.
 
-Lead Full Stack Engineer with **10+ years** of experience architecting and delivering scalable web applications using **.NET Core, React, and Azure**. I design secure, high-performance REST APIs and microservices, lead Agile teams, and care about TDD, clean architecture, and measurable performance gains (up to **50%** improvements through targeted optimization).
+```csharp
+var parveen = new Engineer
+{
+    Role        = "Lead Full Stack Engineer",
+    Experience  = "10+ years",
+    Stack       = new[] { ".NET Core", "React", "Azure" },
+    Superpowers = new[] { "Microservices", "Performance tuning", "Mentoring" },
+    Location    = "Delhi, India 🇮🇳",
+    Exploring   = "Cloud-native architecture",
+    Motto       = "Simplicity is the soul of efficiency."
+};
+```
 
-📍 Delhi, India · 🏢 Lead Full Stack Engineer at **S&P Global**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamparveen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://praveent696.github.io/my-portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveent696@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamparveen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://praveent696.github.io/my-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveent696@gmail.com)
 
 ---
 
-## 🚀 What I Do
+## 🔥 By the Numbers
 
-- 🏗️ **Architecture:** microservices, domain and orchestrator patterns, and event-driven systems on Azure Service Bus, Kafka, and RabbitMQ
-- ⚡ **Performance:** React render and network-call optimization, plus backend tuning that delivered up to 50% faster API responses
-- 🔐 **Secure APIs:** RESTful design with JWT, RBAC, audit logging, and GDPR-aware financial data handling
-- 🤝 **Leadership:** mentoring developers, code reviews, and running Agile sprint delivery as a Team Lead
+| **10+** | **50%** | **30%** | **3** |
+| :---: | :---: | :---: | :---: |
+| Years building software | Faster API responses | Lower operating costs | Awards won |
 
-## 🛠 Tech Stack
+## 🏢 Where I've Built Things
 
-**Languages & Frameworks**
+![S&P Global](https://img.shields.io/badge/S%26P_Global-C8102E?style=for-the-badge&labelColor=0D1117)
+![Harbinger Group](https://img.shields.io/badge/Harbinger_Group-06B6D4?style=for-the-badge&labelColor=0D1117)
+![GlobalLogic](https://img.shields.io/badge/GlobalLogic-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Inficare](https://img.shields.io/badge/Inficare-10B981?style=for-the-badge&labelColor=0D1117)
 
+Across **finance, banking, manufacturing, and healthcare**:
+
+- 📈 **Real-time market data & stock research** for global investors
+- 🏦 **Multi-tenant banking** handling global debit and credit transactions
+- 🏭 **Industrial monitoring** with live production analytics and downtime tracking
+- 🏥 **Healthcare compliance** aligned with The Joint Commission regulations
+
+## 🛠 Tech Arsenal
+
+**Backend**  
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0F766E?style=flat-square)
+![REST](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Cloud & DevOps**
-
+**Cloud & DevOps**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Databases**
-
+**Data & Messaging**  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Messaging**
-
-![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-**Tools & Practices**
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Practices**  
+![TDD](https://img.shields.io/badge/TDD-374151?style=flat-square)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-374151?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-555?style=flat-square)
-
-## 💼 Experience
-
-| Role | Company | Period |
-| :-- | :-- | :-- |
-| **Lead Full Stack Engineer** | S&P Global, Noida | Dec 2025 – Present |
-| **Tech Specialist** | Harbinger Group, Pune (Remote) | Nov 2024 – Dec 2025 |
-| **Software Engineer** | S&P Global, Noida | Mar 2022 – Nov 2024 |
-| **Senior Software Engineer** | GlobalLogic, Noida | Feb 2020 – Mar 2022 |
-| **Software Developer** | Inficare Software Technologies, Noida | Oct 2015 – Feb 2020 |
-
-## 📌 Highlights from My Work
-
-- 🏭 **Real-time plant monitoring platform** (Harbinger): led backend for production analytics and downtime tracking on .NET Core, with RBAC, audit logging, and RabbitMQ-based microservices. API response times improved by up to 50%.
-- 📈 **Stock research application** (S&P Global): real-time market data visualization, watchlists, and technical analysis tools, with React performance tuning and GDPR-compliant data handling.
-- 🏦 **Multi-tenant banking platform** (GlobalLogic): global debit/credit transactions using microservices, domain and orchestrator patterns, Azure Service Bus, and Kafka.
-- 🏥 **CRx healthcare compliance platform** (Inficare): aligned with The Joint Commission regulations, integrating multiple work order systems.
-- ⌚ **SOS app for field workers** (Inficare): Samsung Watch (Tizen OS) integrated with a .NET backend. Also cut operating costs by **30%** by modernizing legacy codebases.
-
-## 🏆 Awards
-
-- 🌟 **SuperStar Award**: Harbinger Group (April 2025)
-- 🔦 **Spotlight Award**: S&P Global (October & November 2022)
-- 🔦 **Spotlight Award**: GlobalLogic (November 2021)
-
-## 🎓 Education
-
-**B.Tech in Computer Science & Engineering**, GGSIPU University, Delhi (2011 – 2015), GPA 8.1/10
-
-## 📊 GitHub
-
-[![Followers](https://img.shields.io/github/followers/Praveent696?style=for-the-badge&logo=github&label=Followers)](https://github.com/Praveent696)
-[![Profile](https://img.shields.io/badge/GitHub-Praveent696-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praveent696)
 
 ---
 
-*"Simplicity is the soul of efficiency."*
+## 🌍 Open Source
+
+| Project | What it does | Stats |
+| :-- | :-- | :-- |
+| [**FCMSharp**](https://github.com/Praveent696/FCMSharp) | Send push notifications to Android and iOS from C# via Firebase Cloud Messaging |  ![NuGet](https://img.shields.io/nuget/dt/Praveent696.FCMSharp?style=flat-square&logo=nuget&label=downloads&labelColor=0D1117&color=06B6D4) |
+| [**jwt-check-expiry**](https://www.npmjs.com/package/jwt-check-expiry) | Check JWT expiry on the client without a secret. TypeScript ready | ![npm](https://img.shields.io/npm/dm/jwt-check-expiry?style=flat-square&logo=npm&label=downloads%2Fmonth&labelColor=0D1117&color=06B6D4) |
+
+## 🏆 Recognition
+
+🌟 **SuperStar Award** · Harbinger Group  
+🔦 **Spotlight Award** · S&P Global  
+🔦 **Spotlight Award** · GlobalLogic
+
+---
+
+*Open to conversations about architecture, performance, and engineering leadership.*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer)
